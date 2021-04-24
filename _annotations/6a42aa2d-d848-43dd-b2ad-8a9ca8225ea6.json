@@ -1,0 +1,5 @@
+---
+canvas: "https://digitalmuret.inha.fr/iiif/21670/canvas/p1"
+order: 2
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "simbolo", "purpose": "commenting", "creator": {"id": "roxxannet", "name": "roxxannet"}, "created": "2021-04-24T09:16:15.029Z", "modified": "2021-04-24T09:16:15.742Z"}], "target": {"source": "https://digitalmuret.inha.fr/iiif/21670/canvas/p1", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:862.377685546875,3551.498779296875,327.793701171875,237.21923828125"}, "dcterms:isPartOf": {"id": "https://digitalmuret.inha.fr/iiif/21670/manifest", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/6a42aa2d-d848-43dd-b2ad-8a9ca8225ea6.json"}
